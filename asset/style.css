@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+.box{
+    height: 300px;
+    width: 300px;
+    box-shadow: rgba(rgb(67, 162, 218), rgb(59, 125, 224), rgb(74, 74, 139), alpha);
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+
+}
+.title{
+    font-family: 'Lobster', cursive;
+    letter-spacing: 6px;
+    font-weight: 600;
+    text-align: center;
+
+}
+
+.enter_text{
+    height: 100px;
+    width: 300px;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Josefin Sans', sans-serif;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(95, 131, 179);
+}
+.title::before{
+    content: "Enter Text";
+    font-family: 'Josefin Sans', sans-serif;
+    position: absolute;
+    top: 75px;
+    left: 40%;
+    color: black;
+    font-size: 15px;
+    margin-left: -40px;
+    font-weight: 400;
+}
+.speak_btn{
+    color: white;
+    background: #514CE1;
+    height: 40px;
+    width: 250px;
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    bottom: 5px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: .2s;
+    letter-spacing: 3px;
+}
+.speak_btn:hover{
+    background-color: rgb(132, 132, 214);
+    color: #192233;
+}
+
+
