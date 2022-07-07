@@ -1,6 +1,5 @@
-# Text--to-Speech-App
+# Text to Speech App
 
-# Text-to-Speech-App
 <h1 align="center">Hi 👋, I'm Nazuzu</h1>
 <h3 align="center">A passionate Web developer and Ethical Hacker from Ethiopia</h3>
 
