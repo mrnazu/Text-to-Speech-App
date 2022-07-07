@@ -1,2 +1,19 @@
 # Text--to-Speech-App
-Text-to-speech (TTS) is a type of assistive technology that reads digital text aloud. It's sometimes called “read aloud” technology. With a click of a button or the touch of a finger, TTS can take words on a computer or other digital device and convert them into human voice audio.
+
+# Text-to-Speech-App
+<h1 align="center">Hi 👋, I'm Nazuzu</h1>
+<h3 align="center">A passionate Web developer and Ethical Hacker from Ethiopia</h3>
+
+- 🔭 I’m currently working on **Bug Hunting and Python**
+
+- Now i made a simple Java Script Project => **Text to Speech App**
+
+- Using **HTML , CSS , Java Script**
+
+
+![text-2-speech](https://user-images.githubusercontent.com/108541991/177796441-62ceb2c9-c504-4120-9493-6c79834849eb.png)
+
+
+
+
+
